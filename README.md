@@ -14,4 +14,9 @@
    (6)useCallback(fn,[]) 用来暂存函数;
    (7)useRef;
    (8)自定义函数;
-   
+   1.打开控制台
+   2.cd 到你的目标文件目录
+   3.mkdir ReactHooksDemo 文件目录
+   4.可以用几种方式快捷创建项目
+     1.npm init react-app demo01
+     2.yarn create react-app demo01(推荐)
